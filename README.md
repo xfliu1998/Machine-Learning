@@ -1,4 +1,4 @@
-# Machine-Learning-eg-
+# Machine-Learning
 吴恩达机器学习系列课程作业源码
 ## 1线性回归
 ## 2逻辑回归、正则化
